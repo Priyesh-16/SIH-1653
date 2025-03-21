@@ -11,16 +11,33 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
+Intelligent Question Selection AI-driven question relevance analysis based on candidate’s domain expertise. Question bank categorized by technical depth, managerial acumen, and experience level. Dynamic question sequencing to maintain logical interview flow.
+
+Candidate Response Evaluation AI-powered natural language processing (NLP) to assess relevance, depth, and coherence of answers. Scoring model comparing candidate responses against expected benchmarks. Automated summarization of candidate strengths and improvement areas.
+
+Expert Panel Assistance Real-time feedback on question relevance to ensure unbiased interviews. Expert scoring module with aggregated ratings for objective assessment. AI-generated suggestions for follow-up questions based on candidate responses.
 
 
 ## Proposed Solution / Architecture Diagram
 
+![WhatsApp Image 2025-03-21 at 21 08 43_7739a507](https://github.com/user-attachments/assets/253ebcd4-156e-46ed-a808-432218fb2e6a)
+
 
 ## Use Cases
 
+![WhatsApp Image 2025-03-21 at 21 08 57_fabdaddd](https://github.com/user-attachments/assets/0b09ce04-90e6-47d0-be76-bb1ccb2c9112)
+
 
 ## Technology Stack
+Speech-to-Text & Text Analysis
+Secure Cloud Database
+User-Friendly Web & Mobile Interface
 
 
 ## Dependencies
+Mapping service- 5 days
+
+Data collection- 15 days
+
+budget- rs.3,50,000 - 5,00,000
 
